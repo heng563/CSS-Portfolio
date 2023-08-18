@@ -1,0 +1,25 @@
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+    
+  }
+
+  .svgImage{
+    height: 30px;
+  }
+
+  #title{
+    background-image: url(Asset/background\ .jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;  
+  }
+
+
+  .lead{
+    color:whitesmoke;
+  }
+
+ 
+ 
+  
